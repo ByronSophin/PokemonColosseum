@@ -1,0 +1,4 @@
+#This program does not include any external packages or virtual environments.
+#Include all files in this project directory, moves-data.csv, pokemon-data.csv, Moves.py, Pokemon.py, PokemonColosseum.py.
+#Run python within this project directory as file paths are relative.
+#To run this program in command prompt type "python PokemonColosseum.py".
